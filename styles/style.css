@@ -1,0 +1,14 @@
+div{
+	display: inline-block;
+	background-color: #0044aa;
+	height: 25px;
+	width: 25px;
+	margin: 1px;
+}
+
+.row{
+	display:block;
+	background-color: transparent;
+	height: auto;
+	width: auto;
+}
